@@ -36,7 +36,7 @@ export default function Home() {
             <span>Entrega de certificado</span>
           </div>
 
-          <a href="https://wa.me/5493516574172?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer" className="btn-primary">
+          <a href="https://wa.me/5493516597712?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer" className="btn-primary">
             Solicitar turno por WhatsApp
           </a>
         </div>
@@ -86,7 +86,7 @@ export default function Home() {
             </p>
 
             <div style={{marginTop: '30px'}}>
-              <a href="https://wa.me/5493516574172?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer" className="btn-primary">
+              <a href="https://wa.me/5493516597712?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer" className="btn-primary">
                 Solicitar turno por WhatsApp
               </a>
             </div>
@@ -176,7 +176,7 @@ export default function Home() {
         <div className="container">
           <h2 className="section-title">Consultá por tu turno</h2>
           <p>Escribime por WhatsApp para consultar disponibilidad</p>
-          <a href="https://wa.me/5493516574172?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer" className="btn-primary">
+          <a href="https://wa.me/5493516597712?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer" className="btn-primary">
             Solicitar turno por WhatsApp
           </a>
         </div>
@@ -189,8 +189,8 @@ export default function Home() {
           <div className="contact-container">
             <div className="contact-item">
               <h3>Teléfono</h3>
-              <a href="https://wa.me/5493516574172?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer">
-                +54 9 351 657 4172
+              <a href="https://wa.me/5493516597712?text=Hola,%20quisiera%20consultar%20por%20un%20turno" target="_blank" rel="noopener noreferrer">
+                +54 9 351 659 7712
               </a>
             </div>
             <div className="contact-item">
